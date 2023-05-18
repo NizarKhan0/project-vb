@@ -1,0 +1,19 @@
+C:\Users\Asus\source\repos\Tioman\Tioman\bin\Debug\Tioman.exe.config
+C:\Users\Asus\source\repos\Tioman\Tioman\bin\Debug\Tioman.exe
+C:\Users\Asus\source\repos\Tioman\Tioman\bin\Debug\Tioman.pdb
+C:\Users\Asus\source\repos\Tioman\Tioman\bin\Debug\Tioman.xml
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.vbproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.Form1.resources
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.Form2.resources
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.Resources.resources
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.vbproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.exe
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.xml
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.pdb
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.Form3.resources
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.Log_in.resources
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.Form5.resources
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.Receipt.resources
+C:\Users\Asus\source\repos\Tioman\Tioman\bin\Debug\Staff Info.accdb
+C:\Users\Asus\source\repos\Tioman\Tioman\obj\Debug\Tioman.Form6.resources
